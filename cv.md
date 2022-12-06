@@ -6,7 +6,8 @@ GitHub: Varuha
 ## About me
 I am 27 y.o. I currently working in JSC Belaruskali (4RU) 
 ## Skills
-Figma /
-Adobe Photoshop /
-Adobe Illustrator /
-Adobe Lightroom 
+Figma \
+Adobe Photoshop \
+Adobe Illustrator \
+Adobe Lightroom \
+Windows OS
